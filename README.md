@@ -16,4 +16,9 @@
 ----------------------------------------------------------------------------------
 [![willianmelo98 GitHub stats](https://github-readme-stats.vercel.app/api?username=willianmelo98)](https://github.com/willianmelo98/github-readme-stats)
 
-https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
+https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
+https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white
+https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black
