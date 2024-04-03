@@ -5,6 +5,6 @@
 
 :house_with_garden: Sou do Brasil.
 
-:books: Atualmente estou aprendendo tudo.
+:books: Atualmente...
 
 :outbox_tray: Metas...
