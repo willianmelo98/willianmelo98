@@ -16,8 +16,7 @@
 ----------------------------------------------------------------------------------
 [![willianmelo98 GitHub stats](https://github-readme-stats.vercel.app/api?username=willianmelo98)](https://github.com/willianmelo98/github-readme-stats)
 
-<code>
-<img height= "20"src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<code><img height= "20"src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></code>
 
 <img height= "20"src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
@@ -28,4 +27,4 @@
 <img height= "20"src= "https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
 
 <img height= "20"src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-</code>
+
