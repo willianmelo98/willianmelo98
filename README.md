@@ -1,9 +1,7 @@
 
 # Bem-vindo!
 
-:computer: Sou desenvolvedor front-end!
-
-:house_with_garden: Sou do Brasil.
+:computer: Sou desenvolvedor front-end (web e mobile)!
 
 :books: Atualmente...
 
