@@ -6,7 +6,7 @@
 
 :books: Atualmente, estudando Asp.net
 
-:outbox_tray: Meta(s): Atualmente é fortalecer mihas habilidades em tecnologias backend, para me tornar um desenvolvedor mais completo.
+:outbox_tray: Meta(s): Atualmente é fortalecer minhas habilidades em tecnologias backend, para me tornar um desenvolvedor mais completo.
 
 
 [![Selo do GitHub](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/willianmelo98?tab=repositories)](https://github.com/willianmelo98?tab=repositories)   [![Selo do Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-melo-349208125/)](https://www.linkedin.com/in/willian-melo-349208125/)
