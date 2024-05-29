@@ -1,12 +1,13 @@
 # Bem-vindo!
 
-:computer: Sou desenvolvedor front-end (web e mobile)!
-
-:books: Atualmente...
-
-:outbox_tray: Metas...
+:computer: Sou Willian Melo, um desenvolvedor front-end (web e mobile)!
 
 ## Sobre mim
+
+:books: Atualmente, estudando Asp.net
+
+:outbox_tray: Metas: Atuamente minha meta é fortalecer mihas habilidades em tecnologias backend, para me tornar um desenvolvedor mais completo.
+
 
 [![Selo do GitHub](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/willianmelo98?tab=repositories)](https://github.com/willianmelo98?tab=repositories)   [![Selo do Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-melo-349208125/)](https://www.linkedin.com/in/willian-melo-349208125/)
 
